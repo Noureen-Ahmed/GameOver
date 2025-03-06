@@ -1,3 +1,3 @@
-﻿import { Home } from "./home.module.js";
+﻿import { Home } from "./Home.module.js";
 
 const home = new Home();
