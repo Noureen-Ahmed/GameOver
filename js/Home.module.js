@@ -1,5 +1,5 @@
-﻿import { UI } from "./UI.module.js";
 import { GameDetails } from "./gameDetails.module.js";
+﻿import { UI } from "./uI.module.js";
 
 export class Home {
 
